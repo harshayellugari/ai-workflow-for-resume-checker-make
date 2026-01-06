@@ -27,4 +27,8 @@ resume evaluation workflow.
 All secrets must be added manually.
 
 
+## 🔗 Connect with Me
+
+[![LinkedIn Profile](https://img.shields.io/badge/Harsha%20Yellugari-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellugari-harsha-vardhan-reddy-9673322ab/)
+
 
